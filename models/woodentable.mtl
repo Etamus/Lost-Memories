@@ -1,0 +1,14 @@
+# Blender MTL File: 'WoodenTVTable.blend'
+# Material Count: 1
+
+newmtl Wood_Texture
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\saana_jk9d3c\\Desktop\\BLENDER PROJECTS\\Textures And Assets\\Textures\\Wood\\Wood026\\Wood026_4K_Color.jpg
+map_Ns C:\\Users\\saana_jk9d3c\\Desktop\\BLENDER PROJECTS\\Textures And Assets\\Textures\\Wood\\Wood026\\Wood026_4K_Roughness.jpg

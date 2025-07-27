@@ -1,0 +1,62 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Blanket.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Blanket_normal.png
+map_Kd Textures\\Blanket_baseColor.jpg
+
+newmtl Blue_Wood.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Blue_Wood_normal.png
+map_Kd Textures\\Blue_Wood_baseColor.jpg
+
+newmtl Brown_Wood.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Brown_Wood_normal.png
+map_Kd Textures\\Brown_Wood_baseColor.jpg
+
+newmtl Matress.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Matress_normal.png
+map_Kd Textures\\Matress_baseColor.jpg
+
+newmtl Pillow.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\Pillow_normal.png
+map_Kd Textures\\Pillow_baseColor.jpg

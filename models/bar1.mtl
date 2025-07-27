@@ -1,0 +1,269 @@
+# Blender MTL File: 'None'
+# Material Count: 23
+
+newmtl BillardBallsPlastic_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\BillardBallsPlastic_MAT1_normal.png
+map_Kd Textures\\BillardBallsPlastic_MAT1_baseColor.png
+
+newmtl BottleHappyTurdGlass_MAT1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d Textures\\BottleHappyTurdGlass_MAT1_baseColor.png
+
+newmtl BottleHappyTurdPaper_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures\\BottleHappyTurdPaper_MAT1_baseColor.png
+
+newmtl BottleJackDanielsGlass_MAT1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d Textures\\BottleHappyTurdGlass_MAT1_baseColor.png
+
+newmtl BottleJackDanielsPaper_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures\\BottleJackDanielsPaper_MAT1_baseColor.png
+
+newmtl BottleStalingradPaper_MAT1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures\\BottleStalingradPaper_MAT1_baseColor.png
+
+newmtl BottleTheMasterChiefGlass_MAT1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d Textures\\BottleHappyTurdGlass_MAT1_baseColor.png
+
+newmtl BottleTheMasterChiefPaper_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures\\BottleTheMasterChiefPaper_MAT1_baseColor.png
+
+newmtl BottleTonkosSpecialGlass_MAT1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d Textures\\BottleTonkosSpecialGlass_MAT1_baseColor.png
+
+newmtl BottleTonkosSpecialPaper_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\BottleTonkosSpecialPaper_MAT1_normal.png
+map_Kd Textures\\BottleTonkosSpecialPaper_MAT1_baseColor.png
+
+newmtl ChairLeather_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\ChairLeather_MAT1_normal.png
+map_Kd Textures\\ChairLeather_MAT1_baseColor.png
+
+newmtl ChairMetal_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\ChairMetal_MAT1_normal.png
+
+newmtl LampLightBulb_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\LampLightBulb_MAT1_normal.png
+map_Kd Textures\\LampLightBulb_MAT1_baseColor.png
+
+newmtl LampMetal_MAT
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\LampLightBulb_MAT1_normal.png
+map_Kd Textures\\LampLightBulb_MAT1_baseColor.png
+
+newmtl PoolCueWood_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\PoolCueWood_MAT1_normal.png
+map_Kd Textures\\PoolCueWood_MAT1_baseColor.png
+
+newmtl PoolTableFelt_MAT2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\PoolTableFelt_MAT2_normal.png
+map_Kd Textures\\PoolTableFelt_MAT2_baseColor.png
+
+newmtl PoolTableWood_MAT2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\PoolTableWood_MAT2_normal.png
+map_Kd Textures\\PoolTableWood_MAT2_baseColor.png
+
+newmtl TVPlastic_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\TVPlastic_MAT1_normal.png
+map_Kd Textures\\TVPlastic_MAT1_baseColor.png
+
+newmtl TVScreen_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\TVScreen_MAT1_normal.png
+map_Kd Textures\\TVScreen_MAT1_baseColor.png
+
+newmtl TableConcrete_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\TableConcrete_MAT1_normal.png
+map_Kd Textures\\TableConcrete_MAT1_baseColor.png
+
+newmtl TableWood_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\TableWood_MAT1_normal.png
+map_Kd Textures\\TableWood_MAT1_baseColor.png
+
+newmtl WallConcrete_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\WallConcrete_MAT1_normal.png
+map_Kd Textures\\WallConcrete_MAT1_baseColor.png
+
+newmtl WallWood_MAT1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\WallWood_MAT1_normal.png
+map_Kd Textures\\WallWood_MAT1_baseColor.png

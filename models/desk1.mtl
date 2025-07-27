@@ -1,0 +1,115 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl initialShadingGroup.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump  Textures\\initialShadingGroup_normal.png
+map_Kd  Textures\\initialShadingGroup_baseColor.png
+map_Ke Textures\\initialShadingGroup_emissive.jpeg
+map_d Textures\\initialShadingGroup_baseColor.png
+
+newmtl lambert10SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert10SG_normal.png
+map_Kd Textures\\lambert10SG_baseColor.png
+map_Ke Textures\\lambert10SG_emissive.jpeg
+map_d Textures\\lambert10SG_baseColor.png
+
+newmtl lambert11SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert11SG_normal.png
+map_Kd Textures\\lambert11SG_baseColor.png
+map_Ke Textures\\lambert11SG_emissive.jpeg
+map_d Textures\\lambert11SG_baseColor.png
+
+newmtl lambert12SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert12SG_normal.png
+map_Kd Textures\\lambert12SG_baseColor.png
+map_Ke Textures\\lambert12SG_emissive.jpeg
+map_d Textures\\lambert12SG_baseColor.png
+
+newmtl lambert13SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert13SG_normal.png
+map_Kd Textures\\lambert13SG_baseColor.png
+map_Ke Textures\\lambert13SG_emissive.jpeg
+map_d Textures\\lambert13SG_baseColor.png
+
+newmtl lambert14SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert14SG_normal.png
+map_Kd Textures\\lambert14SG_baseColor.png
+map_Ke Textures\\lambert14SG_emissive.jpeg
+map_d Textures\\lambert14SG_baseColor.png
+
+newmtl lambert15SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert15SG_normal.png
+map_Kd Textures\\lambert15SG_baseColor.png
+map_Ke Textures\\lambert15SG_emissive.jpeg
+map_d Textures\\lambert15SG_baseColor.png
+
+newmtl lambert16SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Textures\\lambert16SG_normal.png
+map_Kd Textures\\lambert16SG_baseColor.png
+map_Ke Textures\\lambert16SG_emissive.jpeg
+map_d Textures\\lambert16SG_baseColor.png

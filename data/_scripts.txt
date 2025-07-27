@@ -1,0 +1,4 @@
+Map 16 MAP016 - Event 1 EV001 (10,8) - Page 3 Line 1:  - Script call: Lam_Choice_Window_Position.new(190,30)
+Map 18 MAP018 - Event 9 EV009 (7,7) - Page 4 Line 1:  - Script call: Lam_Choice_Window_Position.new(255,20)
+Map 18 MAP018 - Event 9 EV009 (7,7) - Page 5 Line 3:  - Script call: Lam_Choice_Window_Position.new(280,25)
+Map 19 MAP019 - Event 1 EV001 (11,8) - Page 2 Line 4:  - Script call: Lam_Choice_Window_Position.new(400,80)

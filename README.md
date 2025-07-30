@@ -7,16 +7,16 @@
 
 ---
 
-## 📽️ Teaser Comparativo
+## Teaser Comparativo
 
 Confira o teaser da nova versão de **Lost Memories** com comparações entre versões:  
 🔗 [Assista aqui](https://gamejolt.com/p/teaser-comparativo-da-nova-versao-de-lost-memories-esgkmbht)
 
 ---
 
-## 🛠️ Últimas Atualizações
+## Últimas Atualizações
 
-### 📌 Versão 5.3.5
+### Versão 5.3.5
 **Conteúdo:**
 - Redesign de personagens
 - Novos indicadores
@@ -32,7 +32,7 @@ Confira o teaser da nova versão de **Lost Memories** com comparações entre ve
 
 ---
 
-### 🆕 Atualização: *Sisters Meeting*
+### Atualização: *Sisters Meeting*
 **Novidades:**
 - Nova personagem: **White Maiden**
 - Câmeras e mapas retrabalhados
@@ -45,21 +45,21 @@ Confira o teaser da nova versão de **Lost Memories** com comparações entre ve
 
 ---
 
-### 🐞 Correção de Bugs 5.2.7
+### Correção de Bugs 5.2.7
 - Escadas e mapas ajustados
 - Áudio e diálogos corrigidos
 - Músicas agora tocam corretamente
 
 ---
 
-### 🐞 Correção de Bugs 5.2.2
+### Correção de Bugs 5.2.2
 - Evento de teste removido
 - Plugins desnecessários excluídos
 - Iluminação corrigida
 
 ---
 
-### 📦 Versão 5.2.0
+### Versão 5.2.0
 **Adições:**
 - Artes nos diálogos
 - Vinheta na tela
